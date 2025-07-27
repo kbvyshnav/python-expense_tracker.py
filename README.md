@@ -22,5 +22,5 @@ Track your daily expenses by category, view total summaries, and stay in control
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/python-expense-tracker-cli.git
-   cd python-expense-tracker-cli
+   git clone https://github.com/kbvyshnav/python-expense-tracker-cli.py
+
