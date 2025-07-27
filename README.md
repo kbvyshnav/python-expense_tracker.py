@@ -17,9 +17,5 @@ A simple command-line based expense tracker built with Python.
 
 ---
 
-## 🚀 How to Run
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/kbvyshnav/python-expense-tracker-cli.py
 
