@@ -4,7 +4,6 @@ A simple Python command-line app to track expenses, view summaries, and manage s
 # 🧾 Python Expense Tracker (CLI)
 
 A simple command-line based expense tracker built with Python.  
-Track your daily expenses by category, view total summaries, and stay in control of your spending.
 
 ---
 
