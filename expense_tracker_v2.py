@@ -1,3 +1,7 @@
+Print("Py CLI Expense Tracker ;")
+
+
+
 def show_menu():
 
     print("1. Add Expense")
