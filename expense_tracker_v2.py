@@ -1,4 +1,4 @@
-Print("Py CLI Expense Tracker ;")
+Print("Py CLI Expense Tracker")
 
 
 
